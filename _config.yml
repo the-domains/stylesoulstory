@@ -1,0 +1,28 @@
+name: stylesoulstory
+favicon: null
+layout_spectrum: 0.27572155836969614
+typography_spectrum: 0.12484456528909504
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7995774971786886
+  lightness: 0.3861184867564589
+  saturation: 0.7543952267151326
+  rhythmicContrast: 0.8396201499272138
+purpose: []
