@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[stylesoulstory]]></title>
         <description><![CDATA[stylesoulstory]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stylesoulstory/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 21:50:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 21:51:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stylesoulstory/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[5 things I learnt while not buying clothes for 10 months - style, soul, story]]></title>
+            <description><![CDATA[<article><h1>5 things I learnt while not buying clothes for 10 months - style, soul, story</h1><p>5 things I learnt while not buying clothes for 10 months Confessions of an environmental shopaholic I'm an environmentalist and I love new clothes. This contradiction has been tearing me apart for years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bf9e136109e661bc7ee4e32c266f0bb69281047.jpg"></article>]]></description>
+            <link>https://thegrid.ai/stylesoulstory/5-things-i-learnt-while-not-buying-clothes-for-10-months-s/index.html</link>
+            <guid isPermaLink="false">6355d1d6-7bf4-41d4-90ae-5a5450827208</guid>
+            <pubDate>Mon, 11 Apr 2016 21:51:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[And so it begins - style, soul, story]]></title>
-            <description><![CDATA[<article><h1>And so it begins - style, soul, story</h1><p>It was in my home economics class at school in Penang, Malaysia, that I discovered I loved making clothes. The first piece I made was a brightly coloured waistcoat, vibrantly patterned with a hideous, early 90s mix of reds and fluorescent yellows and blues and greens on the front and black on the back.</p><img src="https://cdn-images-1.medium.com/max/1200/1*Jf7HhVDc_9Z6hvV_MbRnnw.jpeg"></article>]]></description>
-            <link>undefinedand-so-it-begins-style-soul-story/index.html</link>
+            <description><![CDATA[<article><h1>And so it begins - style, soul, story</h1><p>It was in my home economics class at school in Penang, Malaysia, that I discovered I loved making clothes. The first piece I made was a brightly coloured waistcoat, vibrantly patterned with a hideous, early 90s mix of reds and fluorescent yellows and blues and greens on the front and black on the back.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f095bf09759e4fc4a5526eafa790d2a423ff85a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/stylesoulstory/and-so-it-begins-style-soul-story/index.html</link>
             <guid isPermaLink="false">fc30bd0e-adf8-4af2-a97a-4cd1b4b655ac</guid>
             <pubDate>Mon, 11 Apr 2016 21:49:21 GMT</pubDate>
         </item>
