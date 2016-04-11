@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[stylesoulstory]]></title>
+        <description><![CDATA[stylesoulstory]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Apr 2016 21:50:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[And so it begins - style, soul, story]]></title>
+            <description><![CDATA[<article><h1>And so it begins - style, soul, story</h1><p>It was in my home economics class at school in Penang, Malaysia, that I discovered I loved making clothes. The first piece I made was a brightly coloured waistcoat, vibrantly patterned with a hideous, early 90s mix of reds and fluorescent yellows and blues and greens on the front and black on the back.</p><img src="https://cdn-images-1.medium.com/max/1200/1*Jf7HhVDc_9Z6hvV_MbRnnw.jpeg"></article>]]></description>
+            <link>undefinedand-so-it-begins-style-soul-story/index.html</link>
+            <guid isPermaLink="false">fc30bd0e-adf8-4af2-a97a-4cd1b4b655ac</guid>
+            <pubDate>Mon, 11 Apr 2016 21:49:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
